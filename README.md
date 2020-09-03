@@ -1,11 +1,8 @@
-### Hola, Soy Byron Carrion 👋
+# Hola, Soy Byron Carrion 👋
 
-<!--
-**ByronCarrion/ByronCarrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 Actualmente trabajo en desarrollo de soluciones informaticas
+- 🔭 Actualmente trabajo en **desarrollo de soluciones informaticas**
+- :computer: Soy Contribuyente en el desarrollo de la solucion [Mi-Expresion-Cuenta](https://github.com/HackathonNicaragua2019/Mi-Expresion-Cuenta) 
 - 🌱 Actualmente estoy aprendiendo sobre desarrollo en Android 
 - 📫 Comuníquese conmigo en [Instagram](https://www.instagram.com/bmejia_c)
--->
+
